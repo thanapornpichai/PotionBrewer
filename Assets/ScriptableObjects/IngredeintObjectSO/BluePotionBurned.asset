@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 265deb0a583ba914d843490b4062b359, type: 3}
+  m_Name: BluePotionBurned
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4262214268910264588, guid: 4e877c3dae1594a47af2dee3f40c50cb, type: 3}
+  sprite: {fileID: -1905215033, guid: dcdc2bf0faec6404a856b526d256c939, type: 3}
+  objectName: BluePotionBurned
